@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 
+X-COMMENT: Main-Class will be added automatically by build 
+Main-Class: cnd.CombinationNDCLL
+Class-Path: ./ ./cnd/*.class ./cnd/strategy/*.class ./util/*.class 
