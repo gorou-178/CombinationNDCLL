@@ -13,9 +13,9 @@ N(X) = {1, ・・・}
 	Java version: 6以上
 
 ## Usage
-	git clone https://github.com/gurimmer/NumberAutoAnser.git
+	git clone https://github.com/gurimmer/CombinationNDCLL.git
 	cd CombinationNDCLL
-	java -Dfile.encoding=utf-8 -jar CombinationNDCLL.jar <整数>
+	java -Dfile.encoding=utf-8 -jar combinationNdcll.jar <整数>
 
 ### 定義
 - L: プログラム実行時に引数として渡された整数。
